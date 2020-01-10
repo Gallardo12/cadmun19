@@ -105,7 +105,49 @@
                     <p>Here are our committees for CADMUN20</p>
                 </div>
 
-                <div-- class="row">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">Mexican Cabinet</h5>
+                                <img src="img/committees/MC.png" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Enfrentar la      corrupción en farmacéuticas y hospitales</li>
+                                <!--li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing corruption in pharmaceuticals and hospitals</li-->
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li>
+                                <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Achieving political power over organized crime within government</li-->
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#mexican-cabinet" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">General Assembly</h5>
+                                <img src="img/committees/GA.jpg" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Reforming immigrant policy worldwide</li>
+                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing corruption in pharmaceuticals and hospitals</li-->
+                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li-->
+                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Achieving political power over organized crime within government</li-->
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#general-assembly" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
@@ -126,51 +168,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--div class="col-lg-4">
-                        <div class="card mb-5 mb-lg-0">
-                            <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
-                                <h6 class="card-price text-center">$250</h6>
-                                <hr>
-                                <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
-                                </ul>
-                                <hr>
-                                <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div-->
-                    <!-- Pro Tier -->
-                    <!--div class="col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
-                                <h6 class="card-price text-center">$350</h6>
-                                <hr>
-                                <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
-                                </ul>
-                                <hr>
-                                <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
-                                </div>
-
-                            </div>
-                        </div-->
-                    </div>
-                </div>
                 <br>
                 <!--div class="row">
                     <div class="col-lg-4">
@@ -242,7 +239,9 @@
 
             </div-->
 
-        <!-- Modal Order Form -->
+        
+
+
         <div id="mexican-cabinet" class="modal fade">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -265,6 +264,31 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div id="general-assembly" class="modal fade">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">General Assembly</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <img src="img/chairs/GA.jpeg" class="img-fluid" alt="">
+                        <br><br>
+                        <ul class="fa-ul">
+                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Aisha Majul</li>
+                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Gabino Martínez</li>
+                            <br><br>
+                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/GA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                            <!--li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         </section>
 
