@@ -101,7 +101,7 @@
                                 <hr>
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Enfrentar la      corrupción en farmacéuticas y hospitales</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Enfrentar la corrupción en farmacéuticas y hospitales</li>
                                 <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li>
                                 </ul>
                                 <hr>
@@ -175,17 +175,17 @@
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">World Trade Organization</h5>
-                                <img src="img/committees/WTO.png" class="img-fluid" alt="">
+                                <h5 class="card-title text-muted text-uppercase text-center">Organisation of Outer Space Affairs</h5>
+                                <img src="img/committees/UNOOSA.jpg" class="img-fluid" alt="">
                                 <hr>
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) The trade war between China and the USA and its future consequences</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The breakdown of dollarization in the global economy</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) International policy on the future colonization of Mars & the Moon</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The management and restriction of the use of outer space resources</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#security-council" data-ticket-type="standard-access">More</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#outer-space" data-ticket-type="standard-access">More</button>
                                 </div>
                             </div>
                         </div>
@@ -304,6 +304,30 @@
                                 <br><br>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WTO_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WTO_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="outer-space" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Organisation of Outer Space Affairs</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/WTO.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Regina Cardosa</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Zack Redak</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNOOSA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNOOSA_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
                             </ul>
                         </div>
                     </div>
