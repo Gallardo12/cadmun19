@@ -194,17 +194,17 @@
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">World Trade Organization</h5>
-                                <img src="img/committees/WTO.png" class="img-fluid" alt="">
+                                <h5 class="card-title text-muted text-uppercase text-center">UN Women</h5>
+                                <img src="img/committees/UNWOMEN.png" class="img-fluid" alt="">
                                 <hr>
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) The trade war between China and the USA and its future consequences</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The breakdown of dollarization in the global economy</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Protecting women from human trafficking and sexual slavery</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The role of women in post-conflict recovery</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#security-council" data-ticket-type="standard-access">More</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#unwomen" data-ticket-type="standard-access">More</button>
                                 </div>
                             </div>
                         </div>
@@ -320,7 +320,7 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <img src="img/chairs/WTO.jpeg" class="img-fluid" alt="">
+                            <img src="img/chairs/UNOOSA.jpeg" class="img-fluid" alt="">
                             <br><br>
                             <ul class="fa-ul">
                                 <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Regina Cardosa</li>
@@ -328,6 +328,30 @@
                                 <br><br>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNOOSA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNOOSA_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="unwomen" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">UN Women</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/UNWOMEN.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Yarleth García</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Fernanda Garza</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNWOMEN_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNWOMEN_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
                             </ul>
                         </div>
                     </div>
