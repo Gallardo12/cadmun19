@@ -151,25 +151,23 @@
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Mexican Cabinet</h5>
-                                <img src="img/committees/MC.png" class="img-fluid" alt="">
+                                <h5 class="card-title text-muted text-uppercase text-center">Security Council</h5>
+                                <img src="img/committees/SC.jpg" class="img-fluid" alt="">
                                 <hr>
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Enfrentar la corrupción en farmacéuticas y hospitales</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing corruption in pharmaceuticals and hospitals</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Achieving political power over organized crime within government</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Measures to ensure responsible military intervention in transnational conflicts</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Moderating the proliferation of chemical and biological weapons to prevent bioterrorism</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#mexican-cabinet" data-ticket-type="standard-access">More</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#security-council" data-ticket-type="standard-access">More</button>
                                 </div>
                             </div>
                         </div>
                     </div>
                 <br>
-                <!--div class="row">
+                <div class="row">
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
@@ -237,7 +235,7 @@
                     </div>
                 </div>
 
-            </div-->
+            </div>
 
         
 
@@ -284,6 +282,30 @@
                             <br><br>
                             <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/GA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
                             <!--li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="security-council" class="modal fade">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Security Council</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <img src="img/chairs/SC.jpeg" class="img-fluid" alt="">
+                        <br><br>
+                        <ul class="fa-ul">
+                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Cynthia Baltiérrez</li>
+                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Emilio Rios</li>
+                            <br><br>
+                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
                         </ul>
                     </div>
                 </div>
