@@ -28,16 +28,12 @@
 </head>
 
 <body>
-    <!--==========================
-    Header
-  ============================-->
+    
     <header id="header">
         <div class="container">
 
             <div id="logo" class="pull-left">
-                <!-- Uncomment below if you prefer to use a text logo -->
                 <h1><a href="/">CADMUN<span>20</span></a></h1>
-                <!--a href="#intro" class="scrollto"><img src="img/logo.png" alt="" title=""></a-->
             </div>
 
             <nav id="nav-menu-container">
@@ -51,17 +47,11 @@
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#supporters">Sponsors</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <!--li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li-->
                 </ul>
             </nav>
-            <!-- #nav-menu-container -->
         </div>
     </header>
-    <!-- #header -->
 
-    <!--==========================
-    Intro Section
-  ============================-->
     <section id="intro">
         <div class="intro-container wow fadeIn">
             <img class="img-fluid" width="20%" src="img/cadmunLogo.png" alt="CADMUN Logo" />
@@ -74,9 +64,6 @@
 
     <main id="main">
 
-        <!--==========================
-      About Section
-    ============================-->
         <section id="about">
             <div class="container">
                 <div class="row">
@@ -166,7 +153,10 @@
                             </div>
                         </div>
                     </div>
-                <br>
+                </div>
+
+                <br><br><br>
+
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
@@ -237,91 +227,85 @@
 
             </div>
 
-        
-
-
-        <div id="mexican-cabinet" class="modal fade">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title">Mexican Cabinet</h4>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <img src="img/chairs/MC.jpeg" class="img-fluid" alt="">
-                        <br><br>
-                        <ul class="fa-ul">
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: José Pablo Castro</li>
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Kamila Medina</li>
+            <div id="mexican-cabinet" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Mexican Cabinet</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/MC.jpeg" class="img-fluid" alt="">
                             <br><br>
-                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
-                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
-                        </ul>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: José Pablo Castro</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Kamila Medina</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div id="general-assembly" class="modal fade">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title">General Assembly</h4>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <img src="img/chairs/GA.jpeg" class="img-fluid" alt="">
-                        <br><br>
-                        <ul class="fa-ul">
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Aisha Majul</li>
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Gabino Martínez</li>
+            <div id="general-assembly" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">General Assembly</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/GA.jpeg" class="img-fluid" alt="">
                             <br><br>
-                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/GA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
-                            <!--li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li-->
-                        </ul>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Aisha Majul</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Gabino Martínez</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/GA_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <!--li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/MC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li-->
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div id="security-council" class="modal fade">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title">Security Council</h4>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <img src="img/chairs/SC.jpeg" class="img-fluid" alt="">
-                        <br><br>
-                        <ul class="fa-ul">
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Cynthia Baltiérrez</li>
-                            <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Emilio Rios</li>
+            <div id="security-council" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Security Council</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/SC.jpeg" class="img-fluid" alt="">
                             <br><br>
-                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
-                            <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
-                        </ul>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Cynthia Baltiérrez</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Emilio Rios</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
 
         </section>
 
-        <!--==========================
-      Speakers Section
-    ============================-->
+
         <section id="speakers" class="wow fadeInUp">
             <div class="container">
                 <div class="section-header">
                     <h2>Event Speaker</h2>
-                    <!--p>Here are some of our speakers</p-->
                 </div>
 
                 <div class="row justify-content-center">
@@ -334,95 +318,16 @@
                                 <div class="social">
                                     <a href="https://twitter.com/Mexican_Space" target="_blank"><i class="fa fa-twitter"></i></a>
                                     <a href="https://www.facebook.com/MXespacial/" target="_blank"><i class="fa fa-facebook"></i></a>
-                                    <!--a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a-->
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--div class="col-lg-4 col-md-6">
-                        <div class="speaker">
-                            <img src="img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
-                            <div class="details">
-                                <h3><a href="speaker-details.html">Hubert Hirthe</a></h3>
-                                <p>Consequuntur odio aut</p>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="speaker">
-                            <img src="img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
-                            <div class="details">
-                                <h3><a href="speaker-details.html">Cole Emmerich</a></h3>
-                                <p>Fugiat laborum et</p>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="speaker">
-                            <img src="img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
-                            <div class="details">
-                                <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
-                                <p>Debitis iure vero</p>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="speaker">
-                            <img src="img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
-                            <div class="details">
-                                <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
-                                <p>Qui molestiae natus</p>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="speaker">
-                            <img src="img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
-                            <div class="details">
-                                <h3><a href="speaker-details.html">Willow Trantow</a></h3>
-                                <p>Non autem dicta</p>
-                                <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div-->
                 </div>
             </div>
 
         </section>
 
-        <!--==========================
-      Schedule Section
-    ============================-->
+
         <section id="schedule" class="section-with-bg">
             <div class="container wow fadeInUp">
                 <div class="section-header">
@@ -676,9 +581,7 @@
 
         </section>
 
-        <!--==========================
-      Venue Section
-    ============================-->
+
         <section id="venue" class="wow fadeInUp">
 
             <div class="container-fluid">
@@ -779,15 +682,12 @@
 
         </section>
 
-        <!--==========================
-      Hotels Section
-    ============================-->
+
         <section id="hotels" class="section-with-bg wow fadeInUp">
 
             <div class="container">
                 <div class="section-header">
                     <h2>Hotels</h2>
-                    <!--p>Here are some nearby hotels</p-->
                 </div>
 
                 <div class="row justify-content-center">
@@ -801,55 +701,17 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
-                                <!--i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i-->
                             </div>
                             <p>4.84 Mile from the Venue</p>
                             <p><a href="pdf/cadmun20hotel.pdf" target="_blank">Click here to read important info</a></p>
                         </div>
                     </div>
-
-                    <!--div class="col-lg-4 col-md-6">
-                        <div class="hotel">
-                            <div class="hotel-img">
-                                <img src="img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
-                            </div>
-                            <h3><a href="#">Hotel 2</a></h3>
-                            <div class="stars">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-half-full"></i>
-                            </div>
-                            <p>0.5 Mile from the Venue</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6">
-                        <div class="hotel">
-                            <div class="hotel-img">
-                                <img src="img/hotels/3.jpg" alt="Hotel 3" class="img-fluid">
-                            </div>
-                            <h3><a href="#">Hotel 3</a></h3>
-                            <div class="stars">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                            </div>
-                            <p>0.6 Mile from the Venue</p>
-                        </div>
-                    </div-->
-
                 </div>
             </div>
 
         </section>
 
-        <!--==========================
-      Gallery Section
-    ============================-->
+
         <section id="gallery" class="wow fadeInUp">
 
             <div class="container">
@@ -872,9 +734,7 @@
 
         </section>
 
-        <!--==========================
-      Sponsors Section
-    ============================-->
+
         <section id="supporters" class="section-with-bg wow fadeInUp">
 
             <div class="container">
@@ -938,9 +798,7 @@
 
         </section>
 
-        <!--==========================
-      F.A.Q Section
-    ============================-->
+
         <section id="faq" class="wow fadeInUp">
 
             <div class="container">
@@ -1018,148 +876,7 @@
 
         </section>
 
-        <!--==========================
-      Subscribe Section
-    ============================-->
-        <!--section id="subscribe">
-            <div class="container wow fadeInUp">
-                <div class="section-header">
-                    <h2>Newsletter</h2>
-                    <p>Rerum numquam illum recusandae quia mollitia consequatur.</p>
-                </div>
 
-                <form method="POST" action="#">
-                    <div class="form-row justify-content-center">
-                        <div class="col-auto">
-                            <input type="text" class="form-control" placeholder="Enter your Email">
-                        </div>
-                        <div class="col-auto">
-                            <button type="submit">Subscribe</button>
-                        </div>
-                    </div>
-                </form>
-
-            </div>
-        </section-->
-
-        <!--==========================
-      Buy Ticket Section
-    ============================-->
-        <!--section id="buy-tickets" class="section-with-bg wow fadeInUp">
-            <div class="container">
-
-                <div class="section-header">
-                    <h2>Buy Tickets</h2>
-                    <p>Velit consequatur consequatur inventore iste fugit unde omnis eum aut.</p>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="card mb-5 mb-lg-0">
-                            <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
-                                <h6 class="card-price text-center">$150</h6>
-                                <hr>
-                                <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Community Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
-                                </ul>
-                                <hr>
-                                <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">Buy Now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="card mb-5 mb-lg-0">
-                            <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
-                                <h6 class="card-price text-center">$250</h6>
-                                <hr>
-                                <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
-                                </ul>
-                                <hr>
-                                <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div-->
-        <!-- Pro Tier -->
-        <!--div class="col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
-                                <h6 class="card-price text-center">$350</h6>
-                                <hr>
-                                <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
-                                </ul>
-                                <hr>
-                                <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div-->
-
-        <!-- Modal Order Form -->
-        <!--div id="buy-ticket-modal" class="modal fade">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h4 class="modal-title">Buy Tickets</h4>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <form method="POST" action="#">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" name="your-name" placeholder="Your Name">
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" name="your-email" placeholder="Your Email">
-                                </div>
-                                <div class="form-group">
-                                    <select id="ticket-type" name="ticket-type" class="form-control">
-                                        <option value="">-- Select Your Ticket Type --</option>
-                                        <option value="standard-access">Standard Access</option>
-                                        <option value="pro-access">Pro Access</option>
-                                        <option value="premium-access">Premium Access</option>
-                                    </select>
-                                </div>
-                                <div class="text-center">
-                                    <button type="submit" class="btn">Buy Now</button>
-                                </div>
-                            </form>
-                        </div>
-
-        </section-->
-
-        <!--==========================
-      Contact Section
-    ============================-->
         <section id="contact" class="section-bg wow fadeInUp">
 
             <div class="container">
@@ -1225,14 +942,10 @@
 
             </div>
         </section>
-        <!-- #contact -->
 
     </main>
 
 
-    <!--==========================
-    Footer
-  ============================-->
     <footer id="footer">
 
         <div class="container">
@@ -1240,21 +953,13 @@
                 &copy; Copyright <strong>CADMUN20</strong>. All Rights Reserved
             </div>
             <div class="credits">
-                <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
-        -->
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
         </div>
     </footer>
-    <!-- #footer -->
 
     <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
-    <!-- JavaScript Libraries -->
     <script src="lib/jquery/jquery.min.js"></script>
     <script src="lib/jquery/jquery-migrate.min.js"></script>
     <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -1265,10 +970,8 @@
     <script src="lib/venobox/venobox.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
-    <!-- Contact Form JavaScript File -->
     <script src="contactform/contactform.js"></script>
 
-    <!-- Template Main Javascript File -->
     <script src="js/main.js"></script>
 </body>
 
