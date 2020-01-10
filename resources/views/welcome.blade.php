@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ config('app.name', 'Laravel') }}20</title>
+    <title>CADMUN20</title>
 
     <!-- Favicons -->
     <link href="img/favicon.ico" rel="icon">
