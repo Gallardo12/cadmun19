@@ -102,9 +102,7 @@
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
                                 <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Enfrentar la      corrupción en farmacéuticas y hospitales</li>
-                                <!--li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing corruption in pharmaceuticals and hospitals</li-->
                                 <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li>
-                                <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Achieving political power over organized crime within government</li-->
                                 </ul>
                                 <hr>
                                 <div class="text-center">
@@ -123,9 +121,6 @@
                                 <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Reforming immigrant policy worldwide</li>
-                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing corruption in pharmaceuticals and hospitals</li-->
-                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Alcanzar el poder político sobre el crimen organizado en el gobierno</li-->
-                                    <!--li><span class="fa-li"><i class="fa fa-check"></i></span>B) Achieving political power over organized crime within government</li-->
                                 </ul>
                                 <hr>
                                 <div class="text-center">
@@ -155,74 +150,66 @@
                     </div>
                 </div>
 
-                <br><br><br>
+                <br>
 
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
-                                <h6 class="card-price text-center">$150</h6>
+                                <h5 class="card-title text-muted text-uppercase text-center">World Trade Organization</h5>
+                                <img src="img/committees/WTO.png" class="img-fluid" alt="">
                                 <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Community Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) The trade war between China and the USA and its future consequences</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The breakdown of dollarization in the global economy</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">Buy Now</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#world-trade-organization" data-ticket-type="standard-access">More</button>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-lg-4">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
-                                <h6 class="card-price text-center">$250</h6>
+                                <h5 class="card-title text-muted text-uppercase text-center">World Trade Organization</h5>
+                                <img src="img/committees/WTO.png" class="img-fluid" alt="">
                                 <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) The trade war between China and the USA and its future consequences</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The breakdown of dollarization in the global economy</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#security-council" data-ticket-type="standard-access">More</button>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-lg-4">
-                        <div class="card">
+                        <div class="card mb-5 mb-lg-0">
                             <div class="card-body">
-                                <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
-                                <h6 class="card-price text-center">$350</h6>
+                                <h5 class="card-title text-muted text-uppercase text-center">World Trade Organization</h5>
+                                <img src="img/committees/WTO.png" class="img-fluid" alt="">
                                 <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
                                 <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) The trade war between China and the USA and its future consequences</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The breakdown of dollarization in the global economy</li>
                                 </ul>
                                 <hr>
                                 <div class="text-center">
-                                    <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#security-council" data-ticket-type="standard-access">More</button>
                                 </div>
-
                             </div>
                         </div>
                     </div>
+
                 </div>
 
             </div>
@@ -293,6 +280,30 @@
                                 <br><br>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/SC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="world-trade-organization" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">World Trade Organization</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/WTO.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Lia Martínez</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Aldo Peña</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WTO_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WTO_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
                             </ul>
                         </div>
                     </div>
