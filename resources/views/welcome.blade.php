@@ -1227,7 +1227,8 @@
                         <div class="contact-phone">
                             <i class="ion-ios-telephone-outline"></i>
                             <h3>Phone Number</h3>
-                            <p><a href="tel:+155895548855">+52 (618) 8133636</a></p>
+                            <p><a href="tel:+526188133636">+52 (618) 8133636</a></p>
+                            <p><a href="tel:+526181767196">+52 (618) 1767196</a></p>
                         </div>
                     </div>
 
