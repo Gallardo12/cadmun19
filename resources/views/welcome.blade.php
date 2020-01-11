@@ -212,6 +212,130 @@
 
                 </div>
 
+                <br>
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">United Nations Office on Drugs and Crime</h5>
+                                <img src="img/committees/UNODC.png" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Eliminating opium exportation from the Golden Crescent</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Money laundering and its role in financing terrorism</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#unodc" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">United Nations Economic and Social Council</h5>
+                                <img src="img/committees/ECOSOC.png" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Proposals to change the economic global system in order to prevent mass pollution and contamination</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) The prevention of a future global economic recession</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#ecosoc" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">Human Rights</h5>
+                                <img src="img/committees/HR.jpg" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Addressing the separation of families at borders and unaccompanied children</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Improving labor conditions to avoid modern slavery</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#hr" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <br>
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">World Health Organization</h5>
+                                <img src="img/committees/WHO.jpg" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Ensuring the adherence to vaccine policies and combating vaccine hesitancy</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Solving the extensive emergency health situation in Yemen</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#who" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">United Nations Children's Fund</h5>
+                                <img src="img/committees/UNICEF.jpg" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Eliminar la extorsión y la trata de menores en el mercado negro</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Providing mental health resources and reducing trauma aggravation for children in humanitarian crises</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#unicef" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">United Nations Environment Programme</h5>
+                                <img src="img/committees/UNEP.jpg" class="img-fluid" alt="">
+                                <hr>
+                                <h6 class="text-uppercase text-center">Topics</h6>
+                                <ul class="fa-ul">
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>A) Promoting the Responsible Disposal of Electronic and Hazardous Waste</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>B) Ensuring Global Participation in Climate Change Mitigation</li>
+                                </ul>
+                                <hr>
+                                <div class="text-center">
+                                    <button type="button" class="btn" data-toggle="modal" data-target="#unep" data-ticket-type="standard-access">More</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
             </div>
 
             <div id="mexican-cabinet" class="modal fade">
@@ -352,6 +476,150 @@
                                 <br><br>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNWOMEN_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
                                 <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNWOMEN_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="unodc" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">United Nations Office on Drugs and Crime</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/UNODC.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Jacqueline Gonzalez</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Jesus Fuentes</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNODC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNODC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="ecosoc" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">United Nations Economic and Social Council</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/ECOSOC.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Ximena Silerio</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Alejandra Borda</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/ECOSOC_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/ECOSOC_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="hr" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Human Rights</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/HR.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Aneli Zepeda</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Grecia Gallegos</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/HR_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/HR_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="who" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">World Health Organization</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/WHO.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Pamela Lopez Yañez</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Alexandra Vazquez</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WHO_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/WHO_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="unicef" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">United Nations Children's Fund</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/UNICEF.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Ana Hinojosa</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Fryda Olvera</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNICEF_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNICEF_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="unep" class="modal fade">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">United Nations Environment Programme</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="img/chairs/UNEP.jpeg" class="img-fluid" alt="">
+                            <br><br>
+                            <ul class="fa-ul">
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Director: Liliana Borda</li>
+                                <li><span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Valeria Espinosa</li>
+                                <br><br>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNEP_TopicA.pdf" target="_blank">Background Paper - Topic A</a></li>
+                                <li><span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNEP_TopicB.pdf" target="_blank">Background Paper - Topic B</a></li>
                             </ul>
                         </div>
                     </div>
