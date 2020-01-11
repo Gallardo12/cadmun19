@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://cadmun.net'),
+    'url' => env('APP_URL', 'http://test.cadmun.net'),
 
     'asset_url' => env('ASSET_URL', null),
 
@@ -119,7 +119,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY','bqjdqzrplezdj9urzdsjoub0iwxm4c4e'),
+    'key' => env('APP_KEY','srcaey7ddqqueuo9vb8putg7vojgic1u'),
 
     'cipher' => 'AES-256-CBC',
 

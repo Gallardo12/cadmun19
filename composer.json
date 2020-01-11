@@ -26,7 +26,7 @@
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
-        "cache-dir": "/home/cadmunne/public_html/cache"
+        "cache-dir": "/home/cadmunne/test.cadmun.net/cache"
     },
     "extra": {
         "laravel": {

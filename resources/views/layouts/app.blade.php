@@ -1,161 +1,161 @@
 <!DOCTYPE html>
-<html lang="{{ app()->getLocale() }}">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- CSRF Token -->
-    <meta name="csrf-token" content="{{ csrf_token() }}">
+    <title>{{ config('app.name', 'Laravel') }}20</title>
 
-    <title>{{ config('app.name', 'Laravel') }} - @yield('title')</title>
-    <meta name="description" content="@yield('meta_description')">
+    <!-- Favicons -->
+    <link href="img/favicon.ico" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
-    <!--  Essential META Tags -->
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
 
-    <meta property="og:title" content="CADMUN 2019">
-    <meta property="og:description" content="Effective communication is the foundation of all human progress. That is why throughout CADMUN we are concern with how human communication should be carried out. CADMUN gives students an environment in which they can challenge and improve their communication skills.">
-    <meta property="og:image" content="{{ asset('assets/img/cadmunLogo.png') }}">
-    <meta property="og:url" content="https://cadmun.net/">
-    <meta name="twitter:card" content="summary_large_image">
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/venobox/venobox.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
-    <!--  Non-Essential, But Recommended -->
-
-    <meta property="og:site_name" content="CADMUN 2019">
-    <meta name="twitter:image:alt" content="CADMUN 2019 Logo">
-
-    <!--Import Google Icon Font-->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
-    <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
+    <!--==========================
+    Header
+  ============================-->
+    <header id="header">
+        <div class="container">
 
+            <div id="logo" class="pull-left">
+                <!-- Uncomment below if you prefer to use a text logo -->
+                <h1><a href="#main">{{ config('app.name', 'Laravel') }}<span>20</span></a></h1>
+                <!--a href="#intro" class="scrollto"><img src="img/logo.png" alt="" title=""></a-->
+            </div>
 
-    <header>
-
-        <div class="navbar-fixed">
-            <nav>
-                <div class="nav-wrapper white">
-                    <a href="{{ url('/') }}" class="brand-logo logo">
-                        <img style="width: 64px;" src="{{ asset('assets/img/cadmunLogo.png') }}" alt="">
-                        <span class="hide-on-med-and-down black-text">{{ config('app.name', 'Laravel') }}</span>
-                    </a>
-
-                    <a href="#" data-activates="mobile-demo" class="button-collapse black-text"><i class="material-icons">menu</i></a>
-
-
-                    <ul class="right hide-on-med-and-down">
-                        <li><a class="black-text modal-trigger" href="#delegate">Delegate</a></li>
-                        <li><a class="black-text" href="{{ route('committees') }}">Committees</a></li>
-                        <li><a class="black-text" href="{{ route('secretariat') }}">Secretariat</a></li>
-                        <li><a class="black-text" href="{{ route('news') }}">News</a></li>
-                        <li><a class="black-text" href="{{ route('contact-us') }}">Contact</a></li>
-
-                    </ul>
-
-
-                    <ul class="side-nav" id="mobile-demo">
-                        <li>
-                            <div class="user-view">
-                                <div class="background">
-                                    <img src="{{ asset('assets/img/background1.jpg') }}">
-                                </div>
-                                <a href="{{ url('/') }}"><img class="circle" src="{{ asset('assets/img/cadmunLogo.png') }}"></a>
-                                <a href="{{ url('/') }}"><span class="white-text name">CADMUN 2019</span></a>
-                                <a href="mailto:cadmun@cadurango.mx"><span class="white-text email">cadmun@cadurango.mx</span> </a>
-                            </div>
-                        </li>
-                        <li><a class="waves-effect" href="{{ route('committees') }}"><i class="material-icons">view_list</i>Committees</a></li>
-                        <li><a class="waves-effect" href="{{ route('secretariat') }}"><i class="material-icons">group_work</i>Secretariat</a></li>
-                        <li><a class="waves-effect" href="{{ route('news') }}"><i class="material-icons">new_releases</i>News</a></li>
-                        <li><a class="waves-effect" href="{{ route('contact-us') }}"><i class="material-icons">contact_mail</i>Contact</a></li>
-                        <li>
-                            <div class="divider"></div>
-                        </li>
-
-                    </ul>
-
-
-                </div>
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active"><a href="#intro">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#speakers">Speaker</a></li>
+                    <li><a href="#schedule">Schedule</a></li>
+                    <li><a href="#venue">Venue</a></li>
+                    <li><a href="#hotels">Hotels</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#supporters">Sponsors</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <!--li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li-->
+                </ul>
             </nav>
+            <!-- #nav-menu-container -->
         </div>
     </header>
+    <!-- #header -->
 
-
-    <main>
+    <main id="main">
         @yield('content')
     </main>
 
-
-    <footer class="page-footer white z-depth-5">
-        <!--div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="black-text">CADMUN 2019</h5>
-          <p class="grey-text text-darken-4">You can use rows and columns here to organize your footer content.</p>
-        </div>
-        <div class="col l4 offset-l2 s12">
-          <h5 class="black-text">Links</h5>
-          <ul>
-            <li><a class="grey-text text-darken-3" href="#!">Link 1</a></li>
-            <li><a class="grey-text text-darken-3" href="#!">Link 2</a></li>
-            <li><a class="grey-text text-darken-3" href="#!">Link 3</a></li>
-            <li><a class="grey-text text-darken-3" href="#!">Link 4</a></li>
-          </ul>
-        </div>
-      </div>
-    </div-->
-        <div class="footer-copyright">
+    <!--==========================
+    Footer
+  ============================-->
+    <footer id="footer">
+        <div class="footer-top">
             <div class="container">
-                <span class="grey-text text-darken-4">© CADMUN
-                    @php echo date("Y");
-                    @endphp </span>
-                <a class="grey-text text-darken-4 right" href="{{ route('privacy') }}" target="_blank">Privacy Policy</a>
-                <p class="right">&emsp;</p>
-                <a class="grey-text text-darken-4 right" href="{{ route('tos') }}" target="_blank">ToS</a>
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-6 footer-info">
+                        <img src="img/logo.png" alt="CADMUN20">
+                        <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate
+                            cupiditate debitis accusamus repellat cumque.</p>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">About us</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">About us</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
+                            <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-contact">
+                        <h4>Contact Us</h4>
+                        <p>
+                            Av. Tec. Milenio #201 <br> El Nayar, Durango, Dgo. <br> Mexico <br>
+                            <strong>Phone:</strong> +52 (618) 8133636<br>
+                            <strong>Email:</strong> cadmun@cadurango.mx<br>
+                        </p>
+
+                        <div class="social-links">
+                            <a href="https://twitter.com/cadmun_" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/cadmun.asd" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/cadmun/" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <!--a href="#" class="google-plus" target="_blank"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a-->
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong>CADMUN20</strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
+        -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
         </div>
     </footer>
+    <!-- #footer -->
 
+    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
-    <!--Import jQuery before materialize.js-->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('.slider').slider();
-            $('.scrollspy').scrollSpy();
-            $('.parallax').parallax();
-            $('.slider1').slider();
-            $('.materialboxed').materialbox();
-            $('#body').trigger('autoresize');
-            $('.parallax').parallax();
-        });
-    </script>
+    <!-- JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/jquery/jquery-migrate.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/venobox/venobox.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128216995-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+    <!-- Contact Form JavaScript File -->
+    <script src="contactform/contactform.js"></script>
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-128216995-1');
-    </script>
-
-    @yield('javascript')
-
-
+    <!-- Template Main Javascript File -->
+    <script src="js/main.js"></script>
 </body>
 
 </html>
