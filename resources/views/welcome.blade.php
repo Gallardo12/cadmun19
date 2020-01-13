@@ -987,10 +987,10 @@
                         <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Feb 27th</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Feb28th</a>
+                        <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Feb 28th</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Feb29th</a>
+                        <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Feb 29th</a>
                     </li>
                 </ul>
 
@@ -1087,7 +1087,7 @@
                             <div class="col-md-10">
                                 <h4>Transportation to Delegate Party</h4>
                                 <p>
-                                    To Jardín de los Cardenales
+                                    From American School of Durango to Jardín de los Cardenales
                                 </p>
                             </div>
                         </div>
@@ -1108,235 +1108,257 @@
                     <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>10:00 AM</time>
+                                <time>8:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/1.jpg" alt="Brenden Legros" />
-                                </div>
-                                <h4>
-                                    Libero corrupti explicabo itaque.
-                                    <span>Brenden Legros</span>
-                                </h4>
+                                <h4>Reception</h4>
                                 <p>
-                                    Facere provident incidunt quos voluptas.
+                                    Teatro del IMSS
                                 </p>
                             </div>
                         </div>
-
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>9:00 AM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <div class="speaker">
+                                    <img src="img/speakers/1.jpg" alt="Jonathan Sánchez Pérez" />
+                                </div>
+                                <h4>
+                                    Conference
+                                    <span>Jonathan Sánchez Pérez</span>
+                                </h4>
+                                <p>
+                                    Conference
+                                </p>
+                            </div>
+                        </div>
                         <div class="row schedule-item">
                             <div class="col-md-2">
                                 <time>11:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/2.jpg" alt="Hubert Hirthe" />
-                                </div>
-                                <h4>
-                                    Et voluptatem iusto dicta nobis.
-                                    <span>Hubert Hirthe</span>
-                                </h4>
+                                <h4>Transportation to American School of Durango</h4>
                                 <p>
-                                    Maiores dignissimos neque qui cum
-                                    accusantium ut sit sint inventore.
+                                    From Teatro del IMSS to American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>12:00 AM</time>
+                                <time>12:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/3.jpg" alt="Cole Emmerich" />
-                                </div>
-                                <h4>
-                                    Explicabo et rerum quis et ut ea.
-                                    <span>Cole Emmerich</span>
-                                </h4>
+                                <h4>Fourth Session</h4>
                                 <p>
-                                    Veniam accusantium laborum nihil eos
-                                    eaque accusantium aspernatur.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>02:00 PM</time>
+                                <time>12:45 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/4.jpg" alt="Jack Christiansen" />
-                                </div>
-                                <h4>
-                                    Qui non qui vel amet culpa sequi.
-                                    <span>Jack Christiansen</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Nam ex distinctio voluptatem doloremque
-                                    suscipit iusto.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>03:00 PM</time>
+                                <time>1:10 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/5.jpg" alt="Alejandrin Littel" />
-                                </div>
-                                <h4>
-                                    Quos ratione neque expedita asperiores.
-                                    <span>Alejandrin Littel</span>
-                                </h4>
+                                <h4>Fifth Session</h4>
                                 <p>
-                                    Eligendi quo eveniet est nobis et ad
-                                    temporibus odio quo.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>04:00 PM</time>
+                                <time>1:55 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/6.jpg" alt="Willow Trantow" />
-                                </div>
-                                <h4>
-                                    Quo qui praesentium nesciunt
-                                    <span>Willow Trantow</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Voluptatem et alias dolorum est aut sit
-                                    enim neque veritatis.
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>2:20 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Sixth Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>3:20 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Break</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>4:25 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Seventh Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>5:25 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Break</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>5:50 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Eight Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>6:35 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Transportation to Formal Dinner</h4>
+                                <p>
+                                    From American School of Durango to Ferrería
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>7:00 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Formal Dinner</h4>
+                                <p>
+                                    Ferrería
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <!-- End Schdule Day 2 -->
 
                     <!-- Schdule Day 3 -->
                     <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>10:00 AM</time>
+                                <time>8:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/2.jpg" alt="Hubert Hirthe" />
-                                </div>
-                                <h4>
-                                    Et voluptatem iusto dicta nobis.
-                                    <span>Hubert Hirthe</span>
-                                </h4>
+                                <h4>Reception</h4>
                                 <p>
-                                    Maiores dignissimos neque qui cum
-                                    accusantium ut sit sint inventore.
+                                    Teatro del IMSS
                                 </p>
                             </div>
                         </div>
-
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>9:00 AM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Game Show</h4>
+                                <p>
+                                    Teatro del IMSS
+                                </p>
+                            </div>
+                        </div>
                         <div class="row schedule-item">
                             <div class="col-md-2">
                                 <time>11:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/3.jpg" alt="Cole Emmerich" />
-                                </div>
-                                <h4>
-                                    Explicabo et rerum quis et ut ea.
-                                    <span>Cole Emmerich</span>
-                                </h4>
+                                <h4>Transportation to American School of Durango</h4>
                                 <p>
-                                    Veniam accusantium laborum nihil eos
-                                    eaque accusantium aspernatur.
+                                    From Teatro del IMSS to American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>12:00 AM</time>
+                                <time>12:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/1.jpg" alt="Brenden Legros" />
-                                </div>
-                                <h4>
-                                    Libero corrupti explicabo itaque.
-                                    <span>Brenden Legros</span>
-                                </h4>
+                                <h4>Ninth Session</h4>
                                 <p>
-                                    Facere provident incidunt quos voluptas.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>02:00 PM</time>
+                                <time>1:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/4.jpg" alt="Jack Christiansen" />
-                                </div>
-                                <h4>
-                                    Qui non qui vel amet culpa sequi.
-                                    <span>Jack Christiansen</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Nam ex distinctio voluptatem doloremque
-                                    suscipit iusto.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>03:00 PM</time>
+                                <time>1:20 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/5.jpg" alt="Alejandrin Littel" />
-                                </div>
-                                <h4>
-                                    Quos ratione neque expedita asperiores.
-                                    <span>Alejandrin Littel</span>
-                                </h4>
+                                <h4>Tenth Session</h4>
                                 <p>
-                                    Eligendi quo eveniet est nobis et ad
-                                    temporibus odio quo.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>04:00 PM</time>
+                                <time>2:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/6.jpg" alt="Willow Trantow" />
-                                </div>
-                                <h4>
-                                    Quo qui praesentium nesciunt
-                                    <span>Willow Trantow</span>
-                                </h4>
+                                <h4>Transportation to Closing Ceremony</h4>
                                 <p>
-                                    Voluptatem et alias dolorum est aut sit
-                                    enim neque veritatis.
+                                    From American School of Durango to Centro de Convenciones Bicentenario
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>3:00 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Closing Ceremony</h4>
+                                <p>
+                                    Centro de Convenciones Bicentenario
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <!-- End Schdule Day 2 -->
                 </div>
             </div>
         </section>
