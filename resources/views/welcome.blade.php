@@ -1696,6 +1696,22 @@
                                     </p>
                                 </div>
                             </li>
+
+                            <li>
+                                <a data-toggle="collapse" href="#faq8" class="collapsed">Important documents<i
+                                        class="fa fa-minus-circle"></i></a>
+                                <div id="faq8" class="collapse" data-parent="#faq-list">
+                                    <p>
+                                        <ul>
+                                            <a href="pdf/dresscode.pdf" target="_blank">Dress code</a>
+                                            <a href="pdf/parlamentary_procedure.pdf" target="_blank">Parlamentary Procedure</a>
+                                            <a href="pdf/procedimiento_parlamentario.pdf" target="_blank">Procedimiento Parlamentario</a>
+                                            <a href="pdf/simulation_rules.pdf" target="_blank">Simulation Rules</a>
+                                            <a href="pdf/reglas_simulacion.pdf" target="_blank">Reglas de Simulación</a>
+                                        </ul>
+                                    </p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
                 </div>
