@@ -526,6 +526,255 @@
                         </div>
                     </div>
                 </div>
+
+                <br><br>
+
+                <div class="section-header">
+                    <h2>Secretariat</h2>
+                    <p>Here are our Secretariat for CADMUN20</p>
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Secretary General
+                                </h5>
+                                <img src="img/secretariat/sp.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Sara Peña
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Vice-Secretary General
+                                </h5>
+                                <img src="img/secretariat/cm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Conchita Mancinas
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Logistics
+                                </h5>
+                                <img src="img/secretariat/pg.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Patricio Guerrero
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Logistics
+                                </h5>
+                                <img src="img/secretariat/ep.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Emilia Pulido
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Chairs
+                                </h5>
+                                <img src="img/secretariat/pm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Paulina Menaut
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Chairs
+                                </h5>
+                                <img src="img/secretariat/ir.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Iñaki Rodríguez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Finance
+                                </h5>
+                                <img src="img/secretariat/ndlp.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Natalie De La Peña
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Foreign Relations
+                                </h5>
+                                <img src="img/secretariat/ah.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Andrea Holguin
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Foreign Relations
+                                </h5>
+                                <img src="img/secretariat/sb.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Samantha Badillo
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Technology
+                                </h5>
+                                <img src="img/secretariat/ls.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Leonardo Sanchez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Technology
+                                </h5>
+                                <img src="img/secretariat/af.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Alejandro Flores
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Delegates
+                                </h5>
+                                <img src="img/secretariat/mc.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Fernanda Casares
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Delegates
+                                </h5>
+                                <img src="img/secretariat/ac.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Andrea Campos
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Marketing
+                                </h5>
+                                <img src="img/secretariat/ig.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Ingrid Garcia
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Marketing
+                                </h5>
+                                <img src="img/secretariat/xm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Ximena Martinez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Chief of Staff
+                                </h5>
+                                <img src="img/secretariat/er.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Edgar Roque
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div id="mexican-cabinet" class="modal fade">
@@ -1724,7 +1973,7 @@
             </div>
         </section>
 
-        <section id="contact" class="section-bg wow fadeInUp">
+        <section id="contact" class="section-with-bg wow fadeInUp">
             <div class="container">
                 <div class="section-header">
                     <h2>Contact Us</h2>
