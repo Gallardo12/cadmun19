@@ -2016,7 +2016,7 @@
                     </div>
                 </div>
 
-                <div class="form">
+                <!--div class="form">
                     <div id="sendmessage">
                         Your message has been sent. Thank you!
                     </div>
@@ -2077,7 +2077,7 @@
                         @endforeach
                         </ul>    
                     @endif
-                </div>
+                </div-->
             </div>
         </section>
     </main>
