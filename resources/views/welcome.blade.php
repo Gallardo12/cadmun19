@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>CADMUN20</title>
+    <meta name="description" content="ADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking.">
+
+    <link rel="canonical" href="https://cadmun.net/" />
 
     <!--  Essential META Tags -->
 
@@ -19,6 +22,8 @@
 
     <meta property="og:site_name" content="CADMUN20">
     <meta name="twitter:image:alt" content="CADMUN Logo">
+
+    <meta name="robots" content="noindex" />
 
     <!-- Favicons -->
     <link href="img/favicon.ico" rel="icon" />
