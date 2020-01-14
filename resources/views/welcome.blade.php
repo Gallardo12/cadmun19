@@ -7,14 +7,25 @@
 
     <title>CADMUN20</title>
 
+    <!--  Essential META Tags -->
+
+    <meta property="og:title" content="CADMUN20">
+    <meta property="og:description" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
+    <meta property="og:image" content="img/CADMUN_logo.png">
+    <meta property="og:url" content="https://cadmun.net/">
+    <meta name="twitter:card" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
+
+    <!--  Non-Essential, But Recommended -->
+
+    <meta property="og:site_name" content="CADMUN20">
+    <meta name="twitter:image:alt" content="CADMUN Logo">
+
     <!-- Favicons -->
     <link href="img/favicon.ico" rel="icon" />
     <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet" />
 
     <!-- Bootstrap CSS File -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -2112,6 +2123,16 @@
     <script src="js/main.js"></script>
 
     <script src="https://www.google.com/recaptcha/api.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156151556-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-156151556-1');
+    </script>
 </body>
 
 </html>
