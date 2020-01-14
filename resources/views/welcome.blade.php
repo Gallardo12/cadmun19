@@ -994,14 +994,14 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <img src="img/chairs/UNODC.jpeg" class="img-fluid" alt="" />
+                            <img src="img/chairs/UNODC.jpg" class="img-fluid" alt="" />
                             <br /><br />
                             <ul class="fa-ul">
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Jacqueline Gonzalez
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Ana Hinojosa
                                 </li>
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Jesus Fuentes
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Jacqueline Gonzalez
                                 </li>
                                 <br /><br />
                                 <li>
@@ -1136,14 +1136,14 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <img src="img/chairs/UNICEF.jpeg" class="img-fluid" alt="" />
+                            <img src="img/chairs/UNICEF.png" class="img-fluid" alt="" />
                             <br /><br />
                             <ul class="fa-ul">
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Ana Hinojosa
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Fryda Olvera
                                 </li>
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Fryda Olvera
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Nitza Garcia
                                 </li>
                                 <br /><br />
                                 <li>
