@@ -6,15 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>CADMUN20</title>
+    <meta name="description" content="ADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking.">
+
+    <link rel="canonical" href="https://cadmun.net/" />
+
+    <!--  Essential META Tags -->
+
+    <meta property="og:title" content="CADMUN20">
+    <meta property="og:description" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
+    <meta property="og:image" content="https://cadmun.net/img/CADMUN_logo.png">
+    <meta property="og:url" content="https://cadmun.net/">
+    <meta name="twitter:card" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
+
+    <!--  Non-Essential, But Recommended -->
+
+    <meta property="og:site_name" content="CADMUN20">
+    <meta name="twitter:image:alt" content="CADMUN Logo">
+
+    <meta name="robots" content="noindex" />
 
     <!-- Favicons -->
     <link href="img/favicon.ico" rel="icon" />
     <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet" />
 
     <!-- Bootstrap CSS File -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -526,6 +542,255 @@
                         </div>
                     </div>
                 </div>
+
+                <br><br>
+
+                <div class="section-header">
+                    <h2>Secretariat</h2>
+                    <p>Here are our Secretariat for CADMUN20</p>
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Secretary General
+                                </h5>
+                                <img src="img/secretariat/sp.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Sara Peña
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Vice-Secretary General
+                                </h5>
+                                <img src="img/secretariat/cm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Conchita Mancinas
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Logistics
+                                </h5>
+                                <img src="img/secretariat/pg.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Patricio Guerrero
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Logistics
+                                </h5>
+                                <img src="img/secretariat/ep.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Emilia Pulido
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Chairs
+                                </h5>
+                                <img src="img/secretariat/pm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Paulina Menaut
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Chairs
+                                </h5>
+                                <img src="img/secretariat/ir.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Iñaki Rodríguez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Finance
+                                </h5>
+                                <img src="img/secretariat/ndlp.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Natalie De La Peña
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Foreign Relations
+                                </h5>
+                                <img src="img/secretariat/ah.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Andrea Holguin
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Foreign Relations
+                                </h5>
+                                <img src="img/secretariat/sb.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Samantha Badillo
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Technology
+                                </h5>
+                                <img src="img/secretariat/ls.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Leonardo Sanchez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Technology
+                                </h5>
+                                <img src="img/secretariat/af.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Alejandro Flores
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Delegates
+                                </h5>
+                                <img src="img/secretariat/mc.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Fernanda Casares
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Director of Delegates
+                                </h5>
+                                <img src="img/secretariat/ac.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Andrea Campos
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Marketing
+                                </h5>
+                                <img src="img/secretariat/ig.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Ingrid Garcia
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Marketing
+                                </h5>
+                                <img src="img/secretariat/xm.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Ximena Martinez
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-muted text-uppercase text-center">
+                                    Chief of Staff
+                                </h5>
+                                <img src="img/secretariat/er.jpg" class="img-fluid" alt="" />
+                                <hr />
+                                <h6 class="text-uppercase text-center">
+                                    Edgar Roque
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div id="mexican-cabinet" class="modal fade">
@@ -745,14 +1010,14 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <img src="img/chairs/UNODC.jpeg" class="img-fluid" alt="" />
+                            <img src="img/chairs/UNODC.jpg" class="img-fluid" alt="" />
                             <br /><br />
                             <ul class="fa-ul">
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Jacqueline Gonzalez
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Ana Hinojosa
                                 </li>
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Jesus Fuentes
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Jacqueline Gonzalez
                                 </li>
                                 <br /><br />
                                 <li>
@@ -887,14 +1152,14 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <img src="img/chairs/UNICEF.jpeg" class="img-fluid" alt="" />
+                            <img src="img/chairs/UNICEF.png" class="img-fluid" alt="" />
                             <br /><br />
                             <ul class="fa-ul">
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Ana Hinojosa
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Director: Fryda Olvera
                                 </li>
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Fryda Olvera
+                                    <span class="fa-li"><i class="fa fa-check"></i></span>Moderator: Nitza Garcia
                                 </li>
                                 <br /><br />
                                 <li>
@@ -934,12 +1199,8 @@
                                 </li>
                                 <br /><br />
                                 <li>
-                                    <span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNEP_TopicA.pdf"
-                                        target="_blank">Background Paper - Topic A</a>
-                                </li>
-                                <li>
                                     <span class="fa-li"><i class="fa fa-file"></i></span><a href="pdf/UNEP_TopicB.pdf"
-                                        target="_blank">Background Paper - Topic B</a>
+                                        target="_blank">Background Paper</a>
                                 </li>
                             </ul>
                         </div>
@@ -988,383 +1249,381 @@
 
                 <ul class="nav nav-tabs" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Day 1</a>
+                        <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Feb 27th</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Day 2</a>
+                        <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Feb 28th</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Day 3</a>
+                        <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Feb 29th</a>
                     </li>
                 </ul>
 
-                <h3 class="sub-heading">
+                <!--h3 class="sub-heading">
                     Voluptatem nulla veniam soluta et corrupti consequatur
                     neque eveniet officia. Eius necessitatibus voluptatem
                     quis labore perspiciatis quia.
-                </h3>
+                </h3-->
 
                 <div class="tab-content row justify-content-center">
                     <!-- Schdule Day 1 -->
                     <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>09:30 AM</time>
+                                <time>2:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <h4>Registration</h4>
+                                <h4>Reception</h4>
                                 <p>
-                                    Fugit voluptas iusto maiores temporibus
-                                    autem numquam magnam.
+                                    American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>10:00 AM</time>
+                                <time>3:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/1.jpg" alt="Brenden Legros" />
-                                </div>
-                                <h4>Keynote <span>Brenden Legros</span></h4>
+                                <h4>Opening Ceremony</h4>
                                 <p>
-                                    Facere provident incidunt quos voluptas.
+                                    American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>11:00 AM</time>
+                                <time>4:15 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/2.jpg" alt="Hubert Hirthe" />
-                                </div>
-                                <h4>
-                                    Et voluptatem iusto dicta nobis.
-                                    <span>Hubert Hirthe</span>
-                                </h4>
+                                <h4>First Session</h4>
                                 <p>
-                                    Maiores dignissimos neque qui cum
-                                    accusantium ut sit sint inventore.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>12:00 AM</time>
+                                <time>5:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/3.jpg" alt="Cole Emmerich" />
-                                </div>
-                                <h4>
-                                    Explicabo et rerum quis et ut ea.
-                                    <span>Cole Emmerich</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Veniam accusantium laborum nihil eos
-                                    eaque accusantium aspernatur.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>02:00 PM</time>
+                                <time>5:15 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/4.jpg" alt="Jack Christiansen" />
-                                </div>
-                                <h4>
-                                    Qui non qui vel amet culpa sequi.
-                                    <span>Jack Christiansen</span>
-                                </h4>
+                                <h4>Second Session</h4>
                                 <p>
-                                    Nam ex distinctio voluptatem doloremque
-                                    suscipit iusto.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>03:00 PM</time>
+                                <time>6:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/5.jpg" alt="Alejandrin Littel" />
-                                </div>
-                                <h4>
-                                    Quos ratione neque expedita asperiores.
-                                    <span>Alejandrin Littel</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Eligendi quo eveniet est nobis et ad
-                                    temporibus odio quo.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>04:00 PM</time>
+                                <time>6:15 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/6.jpg" alt="Willow Trantow" />
-                                </div>
-                                <h4>
-                                    Quo qui praesentium nesciunt
-                                    <span>Willow Trantow</span>
-                                </h4>
+                                <h4>Third Session</h4>
                                 <p>
-                                    Voluptatem et alias dolorum est aut sit
-                                    enim neque veritatis.
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>7:00 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Transportation to Delegate Party</h4>
+                                <p>
+                                    From American School of Durango to Jardín de los Cardenales
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>7:30 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Delegate Party</h4>
+                                <p>
+                                    Jardín de los Cardenales
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <!-- End Schdule Day 1 -->
 
                     <!-- Schdule Day 2 -->
                     <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>10:00 AM</time>
+                                <time>8:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/1.jpg" alt="Brenden Legros" />
-                                </div>
-                                <h4>
-                                    Libero corrupti explicabo itaque.
-                                    <span>Brenden Legros</span>
-                                </h4>
+                                <h4>Reception</h4>
                                 <p>
-                                    Facere provident incidunt quos voluptas.
+                                    Teatro del IMSS
                                 </p>
                             </div>
                         </div>
-
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>9:00 AM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <div class="speaker">
+                                    <img src="img/speakers/1.jpg" alt="Jonathan Sánchez Pérez" />
+                                </div>
+                                <h4>
+                                    Conference
+                                    <span>Jonathan Sánchez Pérez</span>
+                                </h4>
+                                <p>
+                                    Conference
+                                </p>
+                            </div>
+                        </div>
                         <div class="row schedule-item">
                             <div class="col-md-2">
                                 <time>11:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/2.jpg" alt="Hubert Hirthe" />
-                                </div>
-                                <h4>
-                                    Et voluptatem iusto dicta nobis.
-                                    <span>Hubert Hirthe</span>
-                                </h4>
+                                <h4>Transportation to American School of Durango</h4>
                                 <p>
-                                    Maiores dignissimos neque qui cum
-                                    accusantium ut sit sint inventore.
+                                    From Teatro del IMSS to American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>12:00 AM</time>
+                                <time>12:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/3.jpg" alt="Cole Emmerich" />
-                                </div>
-                                <h4>
-                                    Explicabo et rerum quis et ut ea.
-                                    <span>Cole Emmerich</span>
-                                </h4>
+                                <h4>Fourth Session</h4>
                                 <p>
-                                    Veniam accusantium laborum nihil eos
-                                    eaque accusantium aspernatur.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>02:00 PM</time>
+                                <time>12:45 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/4.jpg" alt="Jack Christiansen" />
-                                </div>
-                                <h4>
-                                    Qui non qui vel amet culpa sequi.
-                                    <span>Jack Christiansen</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Nam ex distinctio voluptatem doloremque
-                                    suscipit iusto.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>03:00 PM</time>
+                                <time>1:10 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/5.jpg" alt="Alejandrin Littel" />
-                                </div>
-                                <h4>
-                                    Quos ratione neque expedita asperiores.
-                                    <span>Alejandrin Littel</span>
-                                </h4>
+                                <h4>Fifth Session</h4>
                                 <p>
-                                    Eligendi quo eveniet est nobis et ad
-                                    temporibus odio quo.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>04:00 PM</time>
+                                <time>1:55 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/6.jpg" alt="Willow Trantow" />
-                                </div>
-                                <h4>
-                                    Quo qui praesentium nesciunt
-                                    <span>Willow Trantow</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Voluptatem et alias dolorum est aut sit
-                                    enim neque veritatis.
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>2:20 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Sixth Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>3:20 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Break</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>4:25 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Seventh Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>5:25 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Break</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>5:50 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Eight Session</h4>
+                                <p>
+                                    
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>6:35 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Transportation to Formal Dinner</h4>
+                                <p>
+                                    From American School of Durango to Ferrería
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>7:00 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Formal Dinner</h4>
+                                <p>
+                                    Ferrería
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <!-- End Schdule Day 2 -->
 
                     <!-- Schdule Day 3 -->
                     <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>10:00 AM</time>
+                                <time>8:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/2.jpg" alt="Hubert Hirthe" />
-                                </div>
-                                <h4>
-                                    Et voluptatem iusto dicta nobis.
-                                    <span>Hubert Hirthe</span>
-                                </h4>
+                                <h4>Reception</h4>
                                 <p>
-                                    Maiores dignissimos neque qui cum
-                                    accusantium ut sit sint inventore.
+                                    Teatro del IMSS
                                 </p>
                             </div>
                         </div>
-
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>9:00 AM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Game Show</h4>
+                                <p>
+                                    Teatro del IMSS
+                                </p>
+                            </div>
+                        </div>
                         <div class="row schedule-item">
                             <div class="col-md-2">
                                 <time>11:00 AM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/3.jpg" alt="Cole Emmerich" />
-                                </div>
-                                <h4>
-                                    Explicabo et rerum quis et ut ea.
-                                    <span>Cole Emmerich</span>
-                                </h4>
+                                <h4>Transportation to American School of Durango</h4>
                                 <p>
-                                    Veniam accusantium laborum nihil eos
-                                    eaque accusantium aspernatur.
+                                    From Teatro del IMSS to American School of Durango
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>12:00 AM</time>
+                                <time>12:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/1.jpg" alt="Brenden Legros" />
-                                </div>
-                                <h4>
-                                    Libero corrupti explicabo itaque.
-                                    <span>Brenden Legros</span>
-                                </h4>
+                                <h4>Ninth Session</h4>
                                 <p>
-                                    Facere provident incidunt quos voluptas.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>02:00 PM</time>
+                                <time>1:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/4.jpg" alt="Jack Christiansen" />
-                                </div>
-                                <h4>
-                                    Qui non qui vel amet culpa sequi.
-                                    <span>Jack Christiansen</span>
-                                </h4>
+                                <h4>Break</h4>
                                 <p>
-                                    Nam ex distinctio voluptatem doloremque
-                                    suscipit iusto.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>03:00 PM</time>
+                                <time>1:20 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/5.jpg" alt="Alejandrin Littel" />
-                                </div>
-                                <h4>
-                                    Quos ratione neque expedita asperiores.
-                                    <span>Alejandrin Littel</span>
-                                </h4>
+                                <h4>Tenth Session</h4>
                                 <p>
-                                    Eligendi quo eveniet est nobis et ad
-                                    temporibus odio quo.
+                                    
                                 </p>
                             </div>
                         </div>
-
                         <div class="row schedule-item">
                             <div class="col-md-2">
-                                <time>04:00 PM</time>
+                                <time>2:00 PM</time>
                             </div>
                             <div class="col-md-10">
-                                <div class="speaker">
-                                    <img src="img/speakers/6.jpg" alt="Willow Trantow" />
-                                </div>
-                                <h4>
-                                    Quo qui praesentium nesciunt
-                                    <span>Willow Trantow</span>
-                                </h4>
+                                <h4>Transportation to Closing Ceremony</h4>
                                 <p>
-                                    Voluptatem et alias dolorum est aut sit
-                                    enim neque veritatis.
+                                    From American School of Durango to Centro de Convenciones Bicentenario
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row schedule-item">
+                            <div class="col-md-2">
+                                <time>3:00 PM</time>
+                            </div>
+                            <div class="col-md-10">
+                                <h4>Closing Ceremony</h4>
+                                <p>
+                                    Centro de Convenciones Bicentenario
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <!-- End Schdule Day 2 -->
                 </div>
             </div>
         </section>
@@ -1538,49 +1797,55 @@
                 <div class="row no-gutters supporters-wrap clearfix">
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/1.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/chevrolet.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/2.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/karla.png" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/3.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/jumex.png" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/4.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/best_western.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/5.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/jardin_cardenales.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/6.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/logo_molinillos.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/7.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/notaria_1.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="supporter-logo">
-                            <img src="img/supporters/8.png" class="img-fluid" alt="" />
+                            <img src="img/supporters/logotipo-gas-imperial.jpeg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/panque.jpeg" class="img-fluid" alt="" />
                         </div>
                     </div>
                 </div>
@@ -1702,13 +1967,29 @@
                                     </p>
                                 </div>
                             </li>
+
+                            <li>
+                                <a data-toggle="collapse" href="#faq8" class="collapsed">Important documents<i
+                                        class="fa fa-minus-circle"></i></a>
+                                <div id="faq8" class="collapse" data-parent="#faq-list">
+                                    <p>
+                                        <ul>
+                                            <a href="pdf/dresscode.pdf" target="_blank">Dress code</a>
+                                            <a href="pdf/parlamentary_procedure.pdf" target="_blank">Parlamentary Procedure</a>
+                                            <a href="pdf/procedimiento_parlamentario.pdf" target="_blank">Procedimiento Parlamentario</a>
+                                            <a href="pdf/simulation_rules.pdf" target="_blank">Simulation Rules</a>
+                                            <a href="pdf/reglas_simulacion.pdf" target="_blank">Reglas de Simulación</a>
+                                        </ul>
+                                    </p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="contact" class="section-bg wow fadeInUp">
+        <section id="contact" class="section-with-bg wow fadeInUp">
             <div class="container">
                 <div class="section-header">
                     <h2>Contact Us</h2>
@@ -1751,7 +2032,7 @@
                     </div>
                 </div>
 
-                <div class="form">
+                <!--div class="form">
                     <div id="sendmessage">
                         Your message has been sent. Thank you!
                     </div>
@@ -1812,7 +2093,7 @@
                         @endforeach
                         </ul>    
                     @endif
-                </div>
+                </div-->
             </div>
         </section>
     </main>
@@ -1847,6 +2128,16 @@
     <script src="js/main.js"></script>
 
     <script src="https://www.google.com/recaptcha/api.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156151556-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-156151556-1');
+    </script>
 </body>
 
 </html>
