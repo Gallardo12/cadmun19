@@ -14,7 +14,7 @@
 
     <meta property="og:title" content="CADMUN20">
     <meta property="og:description" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
-    <meta property="og:image" content="img/CADMUN_logo.png">
+    <meta property="og:image" content="https://cadmun.net/img/CADMUN_logo.png">
     <meta property="og:url" content="https://cadmun.net/">
     <meta name="twitter:card" content="CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.">
 
