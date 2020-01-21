@@ -1848,6 +1848,30 @@
                             <img src="img/supporters/panque.jpeg" class="img-fluid" alt="" />
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/corona.jpg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/goldram_bruman.jpg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/Jaime_Holguin.jpeg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/orthocenter.jpg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
