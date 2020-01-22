@@ -1872,6 +1872,12 @@
                             <img src="img/supporters/orthocenter.jpg" class="img-fluid" alt="" />
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-md-4 col-xs-6">
+                        <div class="supporter-logo">
+                            <img src="img/supporters/estudio_piano.jpg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
